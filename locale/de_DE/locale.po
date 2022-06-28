@@ -12,7 +12,7 @@ msgstr ""
 "Language: \n"
 
 msgid "plugins.themes.defaultManuscript.name"
-msgstr "Manuskript (abgeleitet vom Standard-Thema)"
+msgstr "BerlinUP (basiert vom Manuskript-Thema)"
 
 msgid "plugins.themes.defaultManuscript.description"
 msgstr "Ein reines, einfaches Thema mit einem verschachtelten Layout, das ein Papierdokument nachbildet."
